@@ -38,7 +38,7 @@ public:
     }
 };
 
-class Bujursangkar :public bidangDatar {
+class Bujursangkar :public bidangDatar { 
 public:
     void input() {
         int s;
