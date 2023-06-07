@@ -19,7 +19,7 @@ public:
     }
 };
 
-class Lingkaran :public bidangDatar {
+class Lingkaran :public bidangDatar { 
 public:
     void input() {
         int r;
