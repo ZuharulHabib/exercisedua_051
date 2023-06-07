@@ -5,7 +5,7 @@ class bidangDatar {
 private:
     int x; // variabel untuk menyimpan input dari lingkaran maupun bujursangkar
 public:
-    bidangDatar() { // constructor
+    bidangDatar() { // constructor 
         x = 0;
     }
     virtual void input() {} // fungsi yang menerima input dan mengirim input melalui fungsi setX untuk disimpan di x
