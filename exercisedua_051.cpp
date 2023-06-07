@@ -40,7 +40,7 @@ public:
 
 class Bujursangkar :public bidangDatar { 
 public:
-    void input() {
+    void input() { 
         int s;
         cout << "bujursangkar dibuat" << endl;
         cout << "Masukkan sisi : ";
