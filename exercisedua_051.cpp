@@ -21,7 +21,7 @@ public:
 
 class Lingkaran :public bidangDatar { 
 public: 
-    void input() {
+    void input() { 
         int r;
         cout << "lingkaran dibuat" << endl;
         cout << "Masukkan jejari : ";
