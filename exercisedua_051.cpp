@@ -20,7 +20,7 @@ public:
 };
 
 class Lingkaran :public bidangDatar { 
-public:
+public: 
     void input() {
         int r;
         cout << "lingkaran dibuat" << endl;
